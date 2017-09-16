@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinGrafSinLine\obj\Debug\WinGrafSinLine.Edit.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinGrafSinLine\obj\Debug\WinGrafSinLine.Form1.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinGrafSinLine\obj\Debug\WinGrafSinLine.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinGrafSinLine\obj\Debug\WinGrafSinLine.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinGrafSinLine\obj\Debug\WinGrafSinLine.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinGrafSinLine\bin\Debug\WinGrafSinLine.exe.config
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinGrafSinLine\bin\Debug\WinGrafSinLine.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinGrafSinLine\bin\Debug\WinGrafSinLine.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinGrafSinLine\obj\Debug\WinGrafSinLine.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinGrafSinLine\obj\Debug\WinGrafSinLine.pdb
