@@ -1,4 +1,3 @@
-\\Mac\Home\Documents\Projects\ASP.NET\NorthwindWeb\bin\NorthwindWeb.dll.config
 \\Mac\Home\Documents\Projects\ASP.NET\NorthwindWeb\bin\NorthwindWeb.dll
 \\Mac\Home\Documents\Projects\ASP.NET\NorthwindWeb\bin\NorthwindWeb.pdb
 \\Mac\Home\Documents\Projects\ASP.NET\NorthwindWeb\bin\EntityFramework.dll
@@ -15,6 +14,5 @@
 \\Mac\Home\Documents\Projects\ASP.NET\NorthwindWeb\bin\System.Spatial.xml
 \\Mac\Home\Documents\Projects\ASP.NET\NorthwindWeb\bin\ru\EntityFramework.resources.dll
 \\Mac\Home\Documents\Projects\ASP.NET\NorthwindWeb\obj\Debug\NorthwindWeb.csprojResolveAssemblyReference.cache
-\\Mac\Home\Documents\Projects\ASP.NET\NorthwindWeb\obj\Debug\NorthwindWeb.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Projects\ASP.NET\NorthwindWeb\obj\Debug\NorthwindWeb.dll
 \\Mac\Home\Documents\Projects\ASP.NET\NorthwindWeb\obj\Debug\NorthwindWeb.pdb
