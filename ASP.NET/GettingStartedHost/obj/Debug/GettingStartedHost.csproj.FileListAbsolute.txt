@@ -1,8 +1,0 @@
-D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.exe
-D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
-D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe
-D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
-D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedLib.dll
-D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
-D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.csprojResolveAssemblyReference.cache
-D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
