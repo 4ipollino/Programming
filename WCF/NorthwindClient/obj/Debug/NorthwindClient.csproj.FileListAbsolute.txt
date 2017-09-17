@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Projects\ASP.NET\NorthwindClient\bin\Debug\NorthwindClient.exe.config
+\\Mac\Home\Documents\Projects\ASP.NET\NorthwindClient\bin\Debug\NorthwindClient.exe
+\\Mac\Home\Documents\Projects\ASP.NET\NorthwindClient\bin\Debug\NorthwindClient.pdb
+\\Mac\Home\Documents\Projects\ASP.NET\NorthwindClient\obj\Debug\NorthwindClient.Form1.resources
+\\Mac\Home\Documents\Projects\ASP.NET\NorthwindClient\obj\Debug\NorthwindClient.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ASP.NET\NorthwindClient\obj\Debug\NorthwindClient.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ASP.NET\NorthwindClient\obj\Debug\NorthwindClient.exe
+\\Mac\Home\Documents\Projects\ASP.NET\NorthwindClient\obj\Debug\NorthwindClient.pdb
