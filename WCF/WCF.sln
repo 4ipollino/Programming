@@ -1,9 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.15
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindWeb", "NorthwindWeb\NorthwindWeb.csproj", "{C733413C-2E55-4A09-A06C-01AA3F749A83}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AACBBF10-4947-4CA9-BCEE-735AAC3D14BA} = {AACBBF10-4947-4CA9-BCEE-735AAC3D14BA}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedHost", "GettingStartedHost\GettingStartedHost.csproj", "{D50A92F8-5EBD-457F-AB34-1AB27522B3EE}"
 EndProject
@@ -12,6 +13,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_switch", "Calc_switch\Calc_switch.csproj", "{03AA1093-636E-45EE-841C-17C5F1B3E105}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindClient", "NorthwindClient\NorthwindClient.csproj", "{140BC58F-C58A-44C8-94D4-CD17D5B6DE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesService", "EmployeesService\EmployeesService.csproj", "{DC4D9DB9-9F5C-4709-873E-D4E752A7384B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesClient", "EmployeesClient\EmployeesClient.csproj", "{AACBBF10-4947-4CA9-BCEE-735AAC3D14BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +44,14 @@ Global
 		{140BC58F-C58A-44C8-94D4-CD17D5B6DE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{140BC58F-C58A-44C8-94D4-CD17D5B6DE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{140BC58F-C58A-44C8-94D4-CD17D5B6DE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4D9DB9-9F5C-4709-873E-D4E752A7384B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4D9DB9-9F5C-4709-873E-D4E752A7384B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4D9DB9-9F5C-4709-873E-D4E752A7384B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4D9DB9-9F5C-4709-873E-D4E752A7384B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACBBF10-4947-4CA9-BCEE-735AAC3D14BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACBBF10-4947-4CA9-BCEE-735AAC3D14BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACBBF10-4947-4CA9-BCEE-735AAC3D14BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACBBF10-4947-4CA9-BCEE-735AAC3D14BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

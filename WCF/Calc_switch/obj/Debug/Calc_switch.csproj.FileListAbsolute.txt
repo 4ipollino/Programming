@@ -4,3 +4,8 @@ D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingSt
 D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\Calc_switch\obj\Debug\Calc_switch.csprojResolveAssemblyReference.cache
 D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\Calc_switch\obj\Debug\Calc_switch.exe
 D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingStarted\Calc_switch\obj\Debug\Calc_switch.pdb
+\\Mac\Home\Documents\Projects\WCF\Calc_switch\bin\Debug\Calc_switch.exe.config
+\\Mac\Home\Documents\Projects\WCF\Calc_switch\bin\Debug\Calc_switch.exe
+\\Mac\Home\Documents\Projects\WCF\Calc_switch\bin\Debug\Calc_switch.pdb
+\\Mac\Home\Documents\Projects\WCF\Calc_switch\obj\Debug\Calc_switch.exe
+\\Mac\Home\Documents\Projects\WCF\Calc_switch\obj\Debug\Calc_switch.pdb

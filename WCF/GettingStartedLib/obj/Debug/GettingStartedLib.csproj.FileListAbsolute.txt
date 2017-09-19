@@ -10,3 +10,9 @@ D:\Для учёбы\ИТМО\4 курс\Облака\Лабы\Lab1WCF\GettingSt
 \\Mac\Home\Documents\Projects\ASP.NET\GettingStartedLib\obj\Debug\GettingStartedLib.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Projects\ASP.NET\GettingStartedLib\obj\Debug\GettingStartedLib.dll
 \\Mac\Home\Documents\Projects\ASP.NET\GettingStartedLib\obj\Debug\GettingStartedLib.pdb
+\\Mac\Home\Documents\Projects\WCF\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+\\Mac\Home\Documents\Projects\WCF\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+\\Mac\Home\Documents\Projects\WCF\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+\\Mac\Home\Documents\Projects\WCF\GettingStartedLib\obj\Debug\GettingStartedLib.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\WCF\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+\\Mac\Home\Documents\Projects\WCF\GettingStartedLib\obj\Debug\GettingStartedLib.pdb
