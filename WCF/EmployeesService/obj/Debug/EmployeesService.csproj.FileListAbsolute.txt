@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\EmployeesService.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\EmployeesService.pdb
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\EntityFramework.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\Microsoft.Data.Edm.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\Microsoft.Data.OData.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\Microsoft.Data.Services.Client.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\Microsoft.Data.Services.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\System.Spatial.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\EntityFramework.xml
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\Microsoft.Data.Edm.xml
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\Microsoft.Data.OData.xml
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\Microsoft.Data.Services.xml
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\Microsoft.Data.Services.Client.xml
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\System.Spatial.xml
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\bin\ru\EntityFramework.resources.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\obj\Debug\EmployeesService.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesService\obj\Debug\EmployeesService.pdb
