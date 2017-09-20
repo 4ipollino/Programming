@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\EmployeesClient.exe.config
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\EmployeesClient.exe
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\EmployeesClient.pdb
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\Microsoft.Data.Edm.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\Microsoft.Data.OData.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\Microsoft.Data.Services.Client.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\System.Spatial.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\Microsoft.Data.Edm.xml
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\Microsoft.Data.OData.xml
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\Microsoft.Data.Services.Client.xml
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\bin\Debug\System.Spatial.xml
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\obj\Debug\EmployeesClient.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\obj\Debug\EmployeesClient.Form1.resources
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\obj\Debug\EmployeesClient.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\obj\Debug\EmployeesClient.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\obj\Debug\EmployeesClient.exe
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeesClient\obj\Debug\EmployeesClient.pdb

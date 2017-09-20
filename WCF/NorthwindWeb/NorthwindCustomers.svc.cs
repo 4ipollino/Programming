@@ -22,7 +22,7 @@ namespace NorthwindWeb
             // Examples:
             config.SetEntitySetAccessRule("*", EntitySetRights.All);
             config.SetServiceOperationAccessRule("*", ServiceOperationRights.All);
-            config.DataServiceBehavior.MaxProtocolVersion = DataServiceProtocolVersion.V3;
+            //config.DataServiceBehavior.MaxProtocolVersion = DataServiceProtocolVersion.;
         }
     }
 }

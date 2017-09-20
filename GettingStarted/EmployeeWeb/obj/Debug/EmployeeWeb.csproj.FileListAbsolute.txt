@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\EmployeeWeb.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\EmployeeWeb.pdb
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\EntityFramework.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\Microsoft.Data.Edm.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\Microsoft.Data.OData.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\Microsoft.Data.Services.Client.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\Microsoft.Data.Services.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\System.Spatial.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\EntityFramework.xml
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\Microsoft.Data.Edm.xml
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\Microsoft.Data.OData.xml
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\Microsoft.Data.Services.xml
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\Microsoft.Data.Services.Client.xml
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\bin\System.Spatial.xml
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\obj\Debug\EmployeeWeb.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\obj\Debug\EmployeeWeb.dll
+\\Mac\Home\Documents\Projects\GettingStarted\EmployeeWeb\obj\Debug\EmployeeWeb.pdb

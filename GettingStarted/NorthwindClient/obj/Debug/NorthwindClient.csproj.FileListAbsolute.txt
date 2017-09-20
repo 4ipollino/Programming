@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\NorthwindClient.exe.config
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\NorthwindClient.exe
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\NorthwindClient.pdb
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\Microsoft.Data.Edm.dll
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\Microsoft.Data.OData.dll
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\Microsoft.Data.Services.Client.dll
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\System.Spatial.dll
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\Microsoft.Data.Edm.xml
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\Microsoft.Data.OData.xml
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\Microsoft.Data.Services.Client.xml
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\bin\Debug\System.Spatial.xml
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\obj\Debug\NorthwindClient.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\obj\Debug\NorthwindClient.Form1.resources
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\obj\Debug\NorthwindClient.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\obj\Debug\NorthwindClient.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\obj\Debug\NorthwindClient.exe
+\\Mac\Home\Documents\Projects\GettingStarted\NorthwindClient\obj\Debug\NorthwindClient.pdb

@@ -96,6 +96,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Fakes Include="Fakes\System.Spatial.fakes" />
     <None Include="packages.config" />
     <None Include="Properties\DataSources\EmployeesClient.EmployeesRef.EmployeesEntities.datasource" />
     <None Include="Properties\Settings.settings">
