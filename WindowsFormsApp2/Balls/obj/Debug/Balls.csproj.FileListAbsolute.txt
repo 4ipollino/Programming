@@ -1,0 +1,17 @@
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Графика и анимация в формах\Labs\Balls\bin\Debug\Balls.exe.config
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Графика и анимация в формах\Labs\Balls\bin\Debug\Balls.exe
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Графика и анимация в формах\Labs\Balls\bin\Debug\Balls.pdb
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Графика и анимация в формах\Labs\Balls\obj\Debug\Balls.Form1.resources
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Графика и анимация в формах\Labs\Balls\obj\Debug\Balls.Properties.Resources.resources
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Графика и анимация в формах\Labs\Balls\obj\Debug\Balls.csproj.GenerateResource.Cache
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Графика и анимация в формах\Labs\Balls\obj\Debug\Balls.exe
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Графика и анимация в формах\Labs\Balls\obj\Debug\Balls.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\Balls\bin\Debug\Balls.exe.config
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\Balls\bin\Debug\Balls.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\Balls\bin\Debug\Balls.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\Balls\obj\Debug\Balls.Form1.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\Balls\obj\Debug\Balls.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\Balls\obj\Debug\Balls.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\Balls\obj\Debug\Balls.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\Balls\obj\Debug\Balls.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\Balls\obj\Debug\Balls.pdb

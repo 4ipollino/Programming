@@ -1,0 +1,9 @@
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.exe.config
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.exe
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.pdb
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csprojResolveAssemblyReference.cache
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.Form1.resources
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.Properties.Resources.resources
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csproj.GenerateResource.Cache
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.exe
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.pdb

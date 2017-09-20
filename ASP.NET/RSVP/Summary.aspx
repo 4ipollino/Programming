@@ -1,16 +1,6 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Summary.aspx.cs" Inherits="Summary" %>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title>Участники семинара</title>
-    <link rel="stylesheet" href="StyleSheet.css" />
-</head>
-<body>
-    <form id="form1" runat="server">
-    <div>
-    <h2>Приглашения</h2>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Summary.aspx.cs" Inherits="Summary" MasterPageFile="~/Site.master"%>
+<asp:Content ID="MainContent" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<h2>Приглашения</h2>
     
     <h3>Выступающие с докладом: </h3>
     <table>
@@ -46,7 +36,4 @@
             <%= GetNoShowHtml()%>
         </tbody>
     </table>
-    </div>
-    </form>
-</body>
-</html>
+</asp:Content>

@@ -1,0 +1,19 @@
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinAsynchMethod\obj\Debug\WinAsynchMethod.csprojResolveAssemblyReference.cache
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.Cache
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+D:\Для учёбы\ИТМО\4 курс\ПО\для С#_2(WF)\Лабы\Асинхронное программирование\Labs\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinAsynchMethod\obj\Debug\WinAsynchMethod.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
