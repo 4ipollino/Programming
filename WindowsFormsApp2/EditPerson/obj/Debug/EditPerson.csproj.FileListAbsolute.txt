@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\EditPerson\bin\Debug\EditPerson.exe.config
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\EditPerson\bin\Debug\EditPerson.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\EditPerson\bin\Debug\EditPerson.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\EditPerson\obj\Debug\EditPerson.EditPersonForm.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\EditPerson\obj\Debug\EditPerson.Form1.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\EditPerson\obj\Debug\EditPerson.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\EditPerson\obj\Debug\EditPerson.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\EditPerson\obj\Debug\EditPerson.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\EditPerson\obj\Debug\EditPerson.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\EditPerson\obj\Debug\EditPerson.pdb

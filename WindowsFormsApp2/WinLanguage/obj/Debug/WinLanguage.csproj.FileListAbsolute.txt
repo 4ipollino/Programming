@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\bin\Debug\WinLanguage.exe.config
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\bin\Debug\WinLanguage.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\bin\Debug\WinLanguage.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\bin\Debug\ru-RU\WinLanguage.resources.dll
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\obj\Debug\WinLanguage.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\obj\Debug\WinLanguage.Form1.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\obj\Debug\WinLanguage.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\obj\Debug\WinLanguage.Form1.ru-RU.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\obj\Debug\WinLanguage.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\obj\Debug\WinLanguage.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\obj\Debug\ru-RU\WinLanguage.resources.dll
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\obj\Debug\WinLanguage.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinLanguage\obj\Debug\WinLanguage.pdb
