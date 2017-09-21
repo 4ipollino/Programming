@@ -40,3 +40,5 @@
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\ja\UsabilityDemo.resources.dll
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.exe
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.pdb
+\\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemo.fr-FR.resources
+\\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemoText.fr-FR.resources
