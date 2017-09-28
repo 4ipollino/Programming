@@ -1,1 +1,5 @@
 \\Mac\Home\Documents\Projects\WCF\NorthwindClient\bin\Debug\WindowsApplication.exe.config
+\\Mac\Home\Documents\Projects\WCF\NorthwindClient\obj\x86\Debug\NorthwindClient.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\WCF\NorthwindClient\obj\x86\Debug\NorthwindClient.Form1.resources
+\\Mac\Home\Documents\Projects\WCF\NorthwindClient\obj\x86\Debug\NorthwindClient.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\WCF\NorthwindClient\obj\x86\Debug\NorthwindClient.csproj.GenerateResource.Cache
