@@ -33,7 +33,8 @@ namespace UsabilityDemo
 		private bool EnableButtons = false;
 		private System.Windows.Forms.Button CultureButton;
 
-		private ResourceManager RM;
+        // TODO: Declare a private resource manager variable.
+        private ResourceManager RM;
 
 		public UsabilityDemo()
 		{
@@ -45,9 +46,10 @@ namespace UsabilityDemo
 			// Set the culture to the default and create a Resource Manager.
 			ChosenCulture = CultureInfo.InstalledUICulture.ToString();
 
-            RM = new ResourceManager("UsabilityDemo.UsabilityDemoText.fr-FR.resx", Assembly.GetExecutingAssembly());
+            // TODO: Create an object instance of the resource manager.
+            RM = new ResourceManager("UsabilityDemo.UsabilityDemoText", Assembly.GetExecutingAssembly());
 
-        }
+		}
 
 		public UsabilityDemo (string clientCulture)
 		{
@@ -56,6 +58,7 @@ namespace UsabilityDemo
 			ChosenCulture = clientCulture;
 			EnableButtons = true;
 
+            // TODO: Create an object instance of the resource manager.
             RM = new ResourceManager("UsabilityDemo.UsabilityDemoText", Assembly.GetExecutingAssembly());
         }
 
@@ -195,7 +198,6 @@ namespace UsabilityDemo
             this.Controls.Add(this.CurrencyButton);
             this.Controls.Add(this.DateButton);
             this.Controls.Add(this.OutputTextBox);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.HelpButton = true;
             this.UsabilityDemoHelpProvider.SetHelpKeyword(this, resources.GetString("$this.HelpKeyword"));
             this.UsabilityDemoHelpProvider.SetHelpNavigator(this, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("$this.HelpNavigator"))));
@@ -239,9 +241,11 @@ namespace UsabilityDemo
 			ChosenCulture = GetCultureForm.UsersChoice;
 			GetCultureForm.Close();
 
-            OutputTextBox.Text = RM.GetString("SimpleTextString");
+            // TODO: Set the current thread’s Culture and UICulture property values to the user requested in CultureChooser.
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo(ChosenCulture, false);
+            Thread.CurrentThread.CurrentCulture = new CultureInfo(ChosenCulture, false);
 
-            UsabilityDemo DemoForm = new UsabilityDemo(ChosenCulture);
+			UsabilityDemo DemoForm = new UsabilityDemo(ChosenCulture);
 
 			DateButton.Enabled = true;
 			CurrencyButton.Enabled = true;
@@ -267,8 +271,8 @@ namespace UsabilityDemo
 
 		private void StringButton_Click(object sender, System.EventArgs e)
 		{
-            Thread.CurrentThread.CurrentUICulture = new CultureInfo(ChosenCulture, false);
-            Thread.CurrentThread.CurrentCulture = new CultureInfo(ChosenCulture, false);
+            // TODO: Use the resource manager to get the text string and display it in the text box.
+            OutputTextBox.Text = RM.GetString("SimlpeTextString");
         }
 
 		private void AppExitButton_Click(object sender, System.EventArgs e)

@@ -158,6 +158,9 @@
     <EmbeddedResource Include="UsabilityDemo.fr-FR.resx">
       <DependentUpon>UsabilityDemo.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UsabilityDemo.fr.resx">
+      <DependentUpon>UsabilityDemo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UsabilityDemo.ja-JP.resx">
       <DependentUpon>UsabilityDemo.cs</DependentUpon>
     </EmbeddedResource>
@@ -169,7 +172,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UsabilityDemoText.de-DE.resx" />
     <EmbeddedResource Include="UsabilityDemoText.en-US.resx" />
-    <EmbeddedResource Include="UsabilityDemoText.fr-FR.resx" />
     <EmbeddedResource Include="UsabilityDemoText.ja-JP.resx" />
   </ItemGroup>
   <ItemGroup>

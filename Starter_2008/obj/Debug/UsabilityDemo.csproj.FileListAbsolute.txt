@@ -1,4 +1,13 @@
-\\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\UsabilityDemo.exe
+\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\UsabilityDemo.pdb
+\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\de-DE\UsabilityDemo.resources.dll
+\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\de\UsabilityDemo.resources.dll
+\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\en-US\UsabilityDemo.resources.dll
+\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\en\UsabilityDemo.resources.dll
+\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\fr-FR\UsabilityDemo.resources.dll
+\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\fr\UsabilityDemo.resources.dll
+\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\ja-JP\UsabilityDemo.resources.dll
+\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\ja\UsabilityDemo.resources.dll
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.CultureChooser.resources
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemo.resources
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.CultureChooser.de-DE.resources
@@ -13,6 +22,8 @@
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemo.de.resources
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemo.en-US.resources
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemo.en.resources
+\\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemo.fr-FR.resources
+\\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemo.fr.resources
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemo.ja-JP.resources
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemo.ja.resources
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemoText.de-DE.resources
@@ -20,16 +31,6 @@
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemoText.ja-JP.resources
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.csproj.GenerateResource.Cache
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\UsabilityDemo.exe
-\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\UsabilityDemo.pdb
-\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\de-DE\UsabilityDemo.resources.dll
-\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\de\UsabilityDemo.resources.dll
-\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\en-US\UsabilityDemo.resources.dll
-\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\en\UsabilityDemo.resources.dll
-\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\fr-FR\UsabilityDemo.resources.dll
-\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\fr\UsabilityDemo.resources.dll
-\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\ja-JP\UsabilityDemo.resources.dll
-\\Mac\Home\Documents\Projects\Starter_2008\bin\Debug\ja\UsabilityDemo.resources.dll
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\de-DE\UsabilityDemo.resources.dll
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\de\UsabilityDemo.resources.dll
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\en-US\UsabilityDemo.resources.dll
@@ -40,5 +41,3 @@
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\ja\UsabilityDemo.resources.dll
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.exe
 \\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.pdb
-\\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemo.fr-FR.resources
-\\Mac\Home\Documents\Projects\Starter_2008\obj\Debug\UsabilityDemo.UsabilityDemoText.fr-FR.resources
