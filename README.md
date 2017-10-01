@@ -30,5 +30,5 @@
   * WinTimer2
   * WinTimerLib
 * **Starter_2008**
-* **Starter_Calc**
+* **Starter_Calc** *(Control Exercise)*
   * *CalculatorEngine*
