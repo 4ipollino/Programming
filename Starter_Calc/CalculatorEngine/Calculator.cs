@@ -5,40 +5,41 @@ namespace Calculator
 
 	using System;
 
-	public class CalcEngine
-	{
-		//
-		// Operation Constants.
-		//
-		public enum Operator:int
-		{
-			eUnknown = 0,
-			eAdd = 1,
-			eSubtract = 2,
-			eMultiply = 3,
-			eDivide = 4
-		}
+    public class CalcEngine
+    {
+        //
+        // Operation Constants.
+        //
+        public enum Operator : int
+        {
+            eUnknown = 0,
+            eAdd = 1,
+            eSubtract = 2,
+            eMultiply = 3,
+            eDivide = 4,
+            ePower = 5
+        }
 
-		//
-		// Module-Level Constants
-		//
+        //
+        // Module-Level Constants
+        //
 
-		private static double negativeConverter = -1;
-		// TODO: Upgrade the version number to 3.0.1.1
-		private static string versionInfo = "Calculator v3.0.1.1";
+        private static double negativeConverter = -1;
+        // TODO: Upgrade the version number to 3.0.1.1
+        private static string versionInfo = "Calculator v4.0.1.1";
 
-		//
-		// Module-level Variables.
-		//
-	
-		private static double numericAnswer;
-		private static string stringAnswer;
-		private static Operator calcOperation;
-		private static double firstNumber;
-		private static double secondNumber;
-		private static bool secondNumberAdded;
-		private static bool decimalAdded;
- 
+        //
+        // Module-level Variables.
+        //
+
+        private static double numericAnswer;
+        private static string stringAnswer;
+        private static Operator calcOperation;
+        private static double firstNumber;
+        private static double secondNumber;
+        private static bool secondNumberAdded;
+        private static bool decimalAdded;
+
 		//
 		// Class Constructor.
 		//
@@ -171,6 +172,11 @@ namespace Calculator
 						validEquation = true;
 						break;
 
+                    case Operator.ePower:
+                        numericAnswer = Math.Pow(firstNumber, secondNumber);
+                        validEquation = true;
+                        break;
+
 					default:
 						validEquation = false;
 						break;
@@ -197,5 +203,62 @@ namespace Calculator
 			decimalAdded = false;
 			secondNumberAdded = false;			
 		}
-	}
+
+        //
+        // Calculating square number
+        //
+
+        public static string CalcSquare ()
+        {
+            firstNumber = System.Convert.ToDouble(stringAnswer);
+            return (firstNumber * firstNumber).ToString();
+        }
+
+        //
+        // Reverse number
+        //
+
+        public static string CalcReverse()
+        {
+            firstNumber = System.Convert.ToDouble(stringAnswer);
+            return (1 / firstNumber).ToString();
+        }
+
+        //
+        // Square Root
+        //
+
+        public static string CalcSqrt()
+        {
+            firstNumber = System.Convert.ToDouble(stringAnswer);
+            return Math.Sqrt(firstNumber).ToString();
+        }
+
+        // Square Root 3
+        //
+
+        public static string CalcRoot3()
+        {
+            firstNumber = System.Convert.ToDouble(stringAnswer);
+            return Math.Pow(firstNumber, 1.0 / 3.0).ToString();
+        }
+
+        //
+        // factorial
+        //
+
+        public static string CalcFact()
+        {
+            firstNumber = System.Convert.ToDouble(stringAnswer);
+            return Fact(firstNumber).ToString();
+        }
+
+        private static double Fact(double x)
+        {
+            if (x < 1)
+                return 1;
+            else
+                return Fact(x - 1) * x;
+        }
+    }
 }

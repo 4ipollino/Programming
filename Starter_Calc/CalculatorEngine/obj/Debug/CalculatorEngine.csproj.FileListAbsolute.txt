@@ -8,3 +8,4 @@ D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые
 \\Mac\Home\Documents\Projects\Starter_Calc\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Projects\Starter_Calc\CalculatorEngine\obj\Debug\CalculatorEngine.dll
 \\Mac\Home\Documents\Projects\Starter_Calc\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+\\Mac\Home\Documents\Projects\Starter_Calc\CalculatorEngine\obj\Debug\CalculatorEngine.csprojResolveAssemblyReference.cache

@@ -10,9 +10,13 @@ E:\WinC#\Примеры_демо\Модуль_1\Starter_Calc\obj\Debug\WindowsCa
 E:\WinC#\Примеры_демо\Модуль_1\Starter_Calc\obj\Debug\WindowsCalculator.pdb
 \\Mac\Home\Documents\Projects\Starter_Calc\bin\Debug\WindowsCalculator.exe
 \\Mac\Home\Documents\Projects\Starter_Calc\bin\Debug\WindowsCalculator.pdb
+\\Mac\Home\Documents\Projects\Starter_Calc\bin\Debug\CalculatorEngine.dll
+\\Mac\Home\Documents\Projects\Starter_Calc\bin\Debug\CalculatorEngine.pdb
 \\Mac\Home\Documents\Projects\Starter_Calc\obj\Debug\WindowsCalculator.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Projects\Starter_Calc\obj\Debug\SimpleCalculator.CalcUI.resources
+\\Mac\Home\Documents\Projects\Starter_Calc\obj\Debug\SimpleCalculator.Engineer.resources
 \\Mac\Home\Documents\Projects\Starter_Calc\obj\Debug\WindowsCalculator.csproj.GenerateResource.Cache
 \\Mac\Home\Documents\Projects\Starter_Calc\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Projects\Starter_Calc\obj\Debug\WindowsCalculator.exe
 \\Mac\Home\Documents\Projects\Starter_Calc\obj\Debug\WindowsCalculator.pdb
+\\Mac\Home\Documents\Projects\Starter_Calc\obj\Debug\SimpleCalculator.Equation.resources

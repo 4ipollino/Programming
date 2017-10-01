@@ -18,7 +18,7 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>SimpleCalculator</RootNamespace>
     <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
-    <StartupObject>SimpleCalculator.CalcUI</StartupObject>
+    <StartupObject>SimpleCalculator.Program</StartupObject>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
@@ -68,10 +68,6 @@
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CalculatorEngine">
-      <Name>CalculatorEngine</Name>
-      <HintPath>CalculatorEngine\bin\Debug\CalculatorEngine.dll</HintPath>
-    </Reference>
     <Reference Include="System">
       <Name>System</Name>
     </Reference>
@@ -95,9 +91,34 @@
     <Compile Include="CalcUI.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Engineer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Engineer.Designer.cs">
+      <DependentUpon>Engineer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equation.Designer.cs">
+      <DependentUpon>Equation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
     <EmbeddedResource Include="CalcUI.resx">
       <DependentUpon>CalcUI.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Engineer.resx">
+      <DependentUpon>Engineer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equation.resx">
+      <DependentUpon>Equation.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="CalculatorEngine\CalculatorEngine.csproj">
+      <Project>{429b62d7-a754-484e-90b9-fa28d0cec101}</Project>
+      <Name>CalculatorEngine</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
