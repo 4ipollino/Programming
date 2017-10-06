@@ -119,13 +119,16 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleDimensions = new System.Drawing.SizeF(192F, 192F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1020, 680);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.buttonEdit);
             this.Controls.Add(this.buttonAdd);
             this.Controls.Add(this.empTableDataGridView);
+            this.MaximumSize = new System.Drawing.Size(1046, 751);
+            this.MinimumSize = new System.Drawing.Size(1046, 751);
             this.Name = "Form1";
             this.Text = "Employees";
             this.Load += new System.EventHandler(this.Form1_Load);

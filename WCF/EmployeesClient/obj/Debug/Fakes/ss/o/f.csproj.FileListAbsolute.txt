@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Projects\WCF\EmployeesClient\obj\Debug\Fakes\ss\b\System.Spatial.Fakes.xml
+\\Mac\Home\Documents\Projects\WCF\EmployeesClient\obj\Debug\Fakes\ss\b\System.Spatial.Fakes.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesClient\obj\Debug\Fakes\ss\b\System.Spatial.Fakes.pdb
+\\Mac\Home\Documents\Projects\WCF\EmployeesClient\obj\Debug\Fakes\ss\b\Microsoft.QualityTools.Testing.Fakes.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesClient\obj\Debug\Fakes\ss\o\f.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\WCF\EmployeesClient\obj\Debug\Fakes\ss\o\System.Spatial.Fakes.dll
+\\Mac\Home\Documents\Projects\WCF\EmployeesClient\obj\Debug\Fakes\ss\o\System.Spatial.Fakes.pdb

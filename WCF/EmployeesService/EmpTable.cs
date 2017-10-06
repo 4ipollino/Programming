@@ -17,6 +17,6 @@ namespace EmployeesService
         public int ID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public System.DateTime BirthDate { get; set; }
+        public Nullable<System.DateTime> BirthDate { get; set; }
     }
 }
