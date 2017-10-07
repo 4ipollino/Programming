@@ -8,8 +8,8 @@
       <PropertyRef Name="ID" />
     </Key>
     <Property Name="ID" Type="int" Nullable="false" />
-    <Property Name="FirstName" Type="nchar" Nullable="false" MaxLength="20" />
-    <Property Name="LastName" Type="nchar" Nullable="false" MaxLength="20" />
-    <Property Name="BirthDate" Type="date" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" />
+    <Property Name="BirthDate" Type="date" />
   </EntityType>
 </Schema>
