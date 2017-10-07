@@ -12,9 +12,16 @@ namespace NorthwindClient
 {
     public partial class Form1 : Form
     {
+        ServiceReference1.NorthwindEntities context;
+
         public Form1()
         {
             InitializeComponent();
+            customersDataGridView.AllowUserToAddRows = true;
+            customersDataGridView.AllowUserToDeleteRows = true;
+            customersDataGridView.AllowUserToOrderColumns = true;
+            customersDataGridView.AllowUserToResizeColumns = true;
+            customersDataGridView.AllowUserToResizeRows = true;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -41,6 +48,16 @@ namespace NorthwindClient
                                                          select c;
             }
 
+        }
+
+        private void bindingNavigatorDeleteItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bindingNavigatorAddNewItem_Click(object sender, EventArgs e)
+        {
+           
         }
     }
 }

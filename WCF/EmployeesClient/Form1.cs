@@ -28,7 +28,7 @@ namespace EmployeesClient
 
         private void empTableDataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -56,6 +56,66 @@ namespace EmployeesClient
 
         private void buttonEdit_Click(object sender, EventArgs e)
         {
+            int row = empTableDataGridView.CurrentCellAddress.Y;
+            int ID = (int)empTableDataGridView.Rows[row].Cells[0].Value;
+            String FirstName = empTableDataGridView.Rows[row].Cells[1].Value.ToString();
+            String LastName = empTableDataGridView.Rows[row].Cells[2].Value.ToString();
+            DateTime BirthDate = (DateTime)empTableDataGridView.Rows[row].Cells[3].Value;
+
+            context = new EmployeesRef.EmployeesEntities(new Uri("http://localhost:54865/MyEmployees.svc/"));
+
+            try
+            {
+                EditForm editForm = new EditForm(ID, FirstName, LastName, BirthDate);
+                editForm.numericUpDown1.Enabled = false;
+                editForm.ShowDialog(this);
+
+                if (editForm.DialogResult == System.Windows.Forms.DialogResult.OK)
+                {
+                    var EmployeeToUpdate = (from EmpTable in context.EmpTable
+                                            where EmpTable.ID == ID 
+                                            select EmpTable).Single();
+                    EmployeeToUpdate.ID = editForm.ID;                    
+                    EmployeeToUpdate.FirstName = editForm.FirstName;
+                    EmployeeToUpdate.LastName = editForm.LastName;
+                    EmployeeToUpdate.BirthDate = editForm.BirthDate;
+
+                    //EmployeesRef.EmpTable newEmployee = EmployeesRef.EmpTable.CreateEmpTable(editForm.ID, editForm.FirstName, editForm.LastName, editForm.BirthDate);
+                    context.UpdateObject(EmployeeToUpdate);
+
+                    context.SaveChanges();
+                }                
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+            Form1_Load(this, null);
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            context = new EmployeesRef.EmployeesEntities(new Uri("http://localhost:54865/MyEmployees.svc/"));
+            int ID = (int)empTableDataGridView.Rows[empTableDataGridView.CurrentCellAddress.Y].Cells[0].Value;
+
+            try
+            {
+                var EmployeeToDelete = (from EmpTable in context.EmpTable
+                                        where EmpTable.ID == ID
+                                        select EmpTable).Single();
+
+                //EmployeesRef.EmpTable newEmployee = EmployeesRef.EmpTable.CreateEmpTable(editForm.ID, editForm.FirstName, editForm.LastName, editForm.BirthDate);
+                context.DeleteObject(EmployeeToDelete);
+
+                context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+            Form1_Load(this, null);
         }
         /*
             EmployeesRef.EmployeesEntities context = new EmployeesRef.EmployeesEntities(new Uri("http://localhost:54865/MyEmployees.svc/"));
