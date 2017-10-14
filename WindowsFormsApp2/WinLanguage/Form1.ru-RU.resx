@@ -119,19 +119,19 @@
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="command1ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>268, 38</value>
+    <value>238, 38</value>
   </data>
   <data name="command1ToolStripMenuItem.Text" xml:space="preserve">
     <value>пункт один</value>
   </data>
   <data name="commandTwoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>268, 38</value>
+    <value>238, 38</value>
   </data>
   <data name="commandTwoToolStripMenuItem.Text" xml:space="preserve">
     <value>пункт два</value>
   </data>
   <data name="exitToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>268, 38</value>
+    <value>238, 38</value>
   </data>
   <data name="exitToolStripMenuItem.Text" xml:space="preserve">
     <value>закрыть</value>

@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinTimer\bin\Debug\WinTimer.exe.config
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinTimer\bin\Debug\WinTimer.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinTimer\bin\Debug\WinTimer.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinTimer\obj\Debug\WinTimer.Form1.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinTimer\obj\Debug\WinTimer.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinTimer\obj\Debug\WinTimer.UserControlTimer.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinTimer\obj\Debug\WinTimer1.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinTimer\obj\Debug\WinTimer1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinTimer\obj\Debug\WinTimer.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\WinTimer\obj\Debug\WinTimer.pdb

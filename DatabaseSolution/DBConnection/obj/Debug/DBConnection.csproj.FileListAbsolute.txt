@@ -1,9 +1,0 @@
-\\Mac\Home\Documents\Projects\DatabaseSolution\DBConnection\bin\Debug\DBConnection.exe.config
-\\Mac\Home\Documents\Projects\DatabaseSolution\DBConnection\bin\Debug\DBConnection.exe
-\\Mac\Home\Documents\Projects\DatabaseSolution\DBConnection\bin\Debug\DBConnection.pdb
-\\Mac\Home\Documents\Projects\DatabaseSolution\DBConnection\obj\Debug\DBConnection.Form1.resources
-\\Mac\Home\Documents\Projects\DatabaseSolution\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
-\\Mac\Home\Documents\Projects\DatabaseSolution\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.Cache
-\\Mac\Home\Documents\Projects\DatabaseSolution\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\Projects\DatabaseSolution\DBConnection\obj\Debug\DBConnection.exe
-\\Mac\Home\Documents\Projects\DatabaseSolution\DBConnection\obj\Debug\DBConnection.pdb

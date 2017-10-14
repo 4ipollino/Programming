@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.InherotedForm.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TriangleForm.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

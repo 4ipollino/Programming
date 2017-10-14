@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\BiblForm\bin\Debug\BiblForm.exe.config
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\BiblForm\bin\Debug\BiblForm.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\BiblForm\bin\Debug\BiblForm.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\BiblForm\obj\Debug\BiblForm.Form1.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\BiblForm\obj\Debug\BiblForm.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\BiblForm\obj\Debug\BiblForm.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\BiblForm\obj\Debug\BiblForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\BiblForm\obj\Debug\BiblForm.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\BiblForm\obj\Debug\BiblForm.pdb

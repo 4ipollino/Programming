@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+\\Mac\Home\Documents\Projects\WindowsFormsApp2\TestStandartDialog\obj\Debug\TestStandartDialog.pdb
