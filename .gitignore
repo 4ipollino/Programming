@@ -1,2 +1,6 @@
 *.exe
 *.dll
+Osipov.zip
+*.pdb
+*.cache
+*.Cache
