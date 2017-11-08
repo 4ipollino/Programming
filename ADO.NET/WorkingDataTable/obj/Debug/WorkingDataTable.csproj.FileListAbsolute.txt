@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Projects\ADO.NET\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+\\Mac\Home\Documents\Projects\ADO.NET\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+\\Mac\Home\Documents\Projects\ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.pdb

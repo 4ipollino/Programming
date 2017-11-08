@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Projects\ADO.NET\DataViewExample\bin\Debug\DataViewExample.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\DataViewExample\bin\Debug\DataViewExample.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DataViewExample\bin\Debug\DataViewExample.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\DataViewExample\obj\Debug\DataViewExample.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DataViewExample\obj\Debug\DataViewExample.pdb

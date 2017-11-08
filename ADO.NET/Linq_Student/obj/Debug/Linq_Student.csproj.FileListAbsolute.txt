@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Projects\ADO.NET\Linq_Student\bin\Debug\Linq_Student.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\Linq_Student\bin\Debug\Linq_Student.exe
+\\Mac\Home\Documents\Projects\ADO.NET\Linq_Student\bin\Debug\Linq_Student.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\Linq_Student\obj\Debug\Linq_Student.exe
+\\Mac\Home\Documents\Projects\ADO.NET\Linq_Student\obj\Debug\Linq_Student.pdb

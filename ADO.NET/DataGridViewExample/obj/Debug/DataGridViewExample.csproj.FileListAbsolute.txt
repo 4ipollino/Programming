@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Projects\ADO.NET\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.pdb

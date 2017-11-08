@@ -1,0 +1,1 @@
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config

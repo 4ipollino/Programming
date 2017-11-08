@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Projects\ADO.NET\DBCommand\bin\Debug\DBCommand.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\DBCommand\bin\Debug\DBCommand.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DBCommand\bin\Debug\DBCommand.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\DBCommand\obj\Debug\DBCommand.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\DBCommand\obj\Debug\DBCommand.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DBCommand\obj\Debug\DBCommand.pdb

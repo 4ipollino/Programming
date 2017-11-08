@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Projects\ADO.NET\DSConnect\bin\Debug\DSConnect.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\DSConnect\bin\Debug\DSConnect.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DSConnect\bin\Debug\DSConnect.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\DSConnect\obj\Debug\DSConnect.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\ADO.NET\DSConnect\obj\Debug\DSConnect.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DSConnect\obj\Debug\DSConnect.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DSConnect\obj\Debug\DSConnect.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\DSConnect\obj\Debug\DSConnect.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DSConnect\obj\Debug\DSConnect.pdb

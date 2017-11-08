@@ -5,6 +5,5 @@
 \\Mac\Home\Documents\Projects\ADO.NET\OleDbConnection\obj\Debug\OleDbConnectionSpace.Form1.resources
 \\Mac\Home\Documents\Projects\ADO.NET\OleDbConnection\obj\Debug\OleDbConnection.Properties.Resources.resources
 \\Mac\Home\Documents\Projects\ADO.NET\OleDbConnection\obj\Debug\OleDbConnection.csproj.GenerateResource.Cache
-\\Mac\Home\Documents\Projects\ADO.NET\OleDbConnection\obj\Debug\OleDbConnection.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Projects\ADO.NET\OleDbConnection\obj\Debug\OleDbConnection.exe
 \\Mac\Home\Documents\Projects\ADO.NET\OleDbConnection\obj\Debug\OleDbConnection.pdb

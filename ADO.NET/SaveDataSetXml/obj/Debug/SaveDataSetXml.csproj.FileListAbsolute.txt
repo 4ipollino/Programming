@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Projects\ADO.NET\SaveDataSetXml\bin\Debug\SaveDataSetXml.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\SaveDataSetXml\bin\Debug\SaveDataSetXml.exe
+\\Mac\Home\Documents\Projects\ADO.NET\SaveDataSetXml\bin\Debug\SaveDataSetXml.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\SaveDataSetXml\obj\Debug\SaveDataSetXml.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\SaveDataSetXml\obj\Debug\SaveDataSetXml.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\SaveDataSetXml\obj\Debug\SaveDataSetXml.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\SaveDataSetXml\obj\Debug\SaveDataSetXml.exe
+\\Mac\Home\Documents\Projects\ADO.NET\SaveDataSetXml\obj\Debug\SaveDataSetXml.pdb

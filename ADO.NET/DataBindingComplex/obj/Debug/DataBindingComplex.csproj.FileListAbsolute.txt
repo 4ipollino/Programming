@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Projects\ADO.NET\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.pdb

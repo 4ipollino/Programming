@@ -15,9 +15,8 @@ namespace OleDbConnectionSpace
     public partial class Form1 : Form
     {
         private OleDbConnection connection = new OleDbConnection();
-        /*string testConnect = @"Provider=SQLOLEDB.1;Password=osipov;Persist Security Info=True;User ID=admin;
-Initial Catalog=Northwind;Data Source=192.168.2.3,1433;Network Library=DBMSSOCN";*/
-        
+        /*string testConnect = @"Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Northwind;Data Source=1B83\SQLLABS";*/
+
         private string testConnect = GetConnectionStringByName("DBConnect.NorthwindConnectionString");
 
         public Form1()
@@ -105,6 +104,69 @@ Initial Catalog=Northwind;Data Source=192.168.2.3,1433;Network Library=DBMSSOCN"
                     MessageBox.Show("connectionString = " + cs.ConnectionString);
                 }
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(connection.State == ConnectionState.Closed)
+            {
+                MessageBox.Show("Сначала подключитесь к базе!");
+                return;
+            }
+            OleDbCommand command = new OleDbCommand();
+            command.Connection = connection;
+            command.CommandText = "SELECT COUNT (*) FROM Products";
+            int number = (int)command.ExecuteScalar();
+            label1.Text = number.ToString();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (connection.State == ConnectionState.Closed)
+            {
+                MessageBox.Show("Сначала подключитесь к базе!");
+                return;
+            }
+            OleDbCommand command = connection.CreateCommand();
+            command.CommandText = "SELECT ProductName FROM Products";
+            OleDbDataReader reader = command.ExecuteReader();
+            while(reader.Read())
+            {
+                listView1.Items.Add(reader["ProductName"].ToString());
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            OleDbConnection connection = new OleDbConnection(testConnect);
+            connection.Open();
+            OleDbTransaction OleTran = connection.BeginTransaction();
+            OleDbCommand command = connection.CreateCommand();
+            command.Transaction = OleTran;
+
+            try
+            {
+                command.CommandText = "INSERT INTO Products (ProductName) VALUES('Wrong size')";
+                command.ExecuteNonQuery();
+                command.CommandText = "INSERT INTO Products (ProductName) VALUES('Wrong color')";
+                command.ExecuteNonQuery(); OleTran.Commit();
+                MessageBox.Show("Both records were written to database");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+
+                try
+                {
+                    OleTran.Rollback();
+                }
+                catch (Exception exRollback)
+                {
+                    MessageBox.Show(exRollback.Message);
+                }                                
+            }
+
+            connection.Close();
         }
     }
 }

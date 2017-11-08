@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb

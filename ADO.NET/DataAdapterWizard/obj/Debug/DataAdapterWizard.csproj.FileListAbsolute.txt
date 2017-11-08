@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csprojResolveAssemblyReference.cache

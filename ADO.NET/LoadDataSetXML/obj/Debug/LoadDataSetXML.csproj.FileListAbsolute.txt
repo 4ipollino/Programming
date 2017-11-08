@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Projects\ADO.NET\LoadDataSetXML\bin\Debug\LoadDataSetXML.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\LoadDataSetXML\bin\Debug\LoadDataSetXML.exe
+\\Mac\Home\Documents\Projects\ADO.NET\LoadDataSetXML\bin\Debug\LoadDataSetXML.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\LoadDataSetXML\obj\Debug\LoadDataSetXML.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\LoadDataSetXML\obj\Debug\LoadDataSetXML.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\LoadDataSetXML\obj\Debug\LoadDataSetXML.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\LoadDataSetXML\obj\Debug\LoadDataSetXML.exe
+\\Mac\Home\Documents\Projects\ADO.NET\LoadDataSetXML\obj\Debug\LoadDataSetXML.pdb

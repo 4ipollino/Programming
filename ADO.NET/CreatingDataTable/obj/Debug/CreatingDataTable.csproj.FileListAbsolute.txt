@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Projects\ADO.NET\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+\\Mac\Home\Documents\Projects\ADO.NET\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+\\Mac\Home\Documents\Projects\ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
