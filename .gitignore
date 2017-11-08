@@ -4,3 +4,6 @@ Osipov.zip
 *.pdb
 *.cache
 *.Cache
+*.exe.config
+*.exe.manifest
+*.exe 2.config
