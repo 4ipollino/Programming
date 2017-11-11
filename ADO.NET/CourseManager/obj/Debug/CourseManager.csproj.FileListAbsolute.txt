@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\bin\Debug\CourseManager.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\bin\Debug\CourseManager.exe
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\bin\Debug\CourseManager.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\obj\Debug\CourseManager.exe
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\obj\Debug\CourseManager.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Projects\ADO.NET\CourseManager\obj\Debug\CourseManager.csprojResolveAssemblyReference.cache

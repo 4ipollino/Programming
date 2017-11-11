@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Projects\ADO.NET\CodeFirst\bin\Debug\CodeFirst.dll.config
+\\Mac\Home\Documents\Projects\ADO.NET\CodeFirst\bin\Debug\CodeFirst.dll
+\\Mac\Home\Documents\Projects\ADO.NET\CodeFirst\bin\Debug\CodeFirst.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\CodeFirst\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Projects\ADO.NET\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Projects\ADO.NET\CodeFirst\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Projects\ADO.NET\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Projects\ADO.NET\CodeFirst\obj\Debug\CodeFirst.dll
+\\Mac\Home\Documents\Projects\ADO.NET\CodeFirst\obj\Debug\CodeFirst.pdb

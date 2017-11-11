@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsql_m\bin\Debug\LINQsql_m.exe
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsql_m\bin\Debug\LINQsql_m.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.exe
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.pdb

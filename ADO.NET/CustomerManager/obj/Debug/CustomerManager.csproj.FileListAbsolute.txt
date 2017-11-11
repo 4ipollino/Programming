@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\bin\Debug\CustomerManager.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\bin\Debug\CustomerManager.exe
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\bin\Debug\CustomerManager.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\bin\Debug\CodeFirst.dll
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\bin\Debug\CodeFirst.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\obj\Debug\CustomerManager.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\obj\Debug\CustomerManager.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\obj\Debug\CustomerManager.exe
+\\Mac\Home\Documents\Projects\ADO.NET\CustomerManager\obj\Debug\CustomerManager.pdb

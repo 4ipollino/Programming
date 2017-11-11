@@ -1,1 +1,9 @@
 \\Mac\Home\Documents\Projects\ADO.NET\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+\\Mac\Home\Documents\Projects\ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb

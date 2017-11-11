@@ -6,4 +6,3 @@
 \\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.Cache
 \\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
 \\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb
-\\Mac\Home\Documents\Projects\ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csprojResolveAssemblyReference.cache

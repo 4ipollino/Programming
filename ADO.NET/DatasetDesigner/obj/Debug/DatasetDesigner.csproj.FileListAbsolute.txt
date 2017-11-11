@@ -1,7 +1,6 @@
 \\Mac\Home\Documents\Projects\ADO.NET\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
 \\Mac\Home\Documents\Projects\ADO.NET\DatasetDesigner\bin\Debug\DatasetDesigner.exe
 \\Mac\Home\Documents\Projects\ADO.NET\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
-\\Mac\Home\Documents\Projects\ADO.NET\DatasetDesigner\obj\Debug\DatasetDesigner.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Projects\ADO.NET\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
 \\Mac\Home\Documents\Projects\ADO.NET\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
 \\Mac\Home\Documents\Projects\ADO.NET\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.Cache
